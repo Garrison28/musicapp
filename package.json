@@ -2,7 +2,7 @@
   "name": "musicapp",
   "version": "1.0.0",
   "description": "music app",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {
     "express": "^4.17.1",
     "pg": "^7.12.1",
