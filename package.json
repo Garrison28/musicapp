@@ -1,0 +1,17 @@
+{
+  "name": "musicapp",
+  "version": "1.0.0",
+  "description": "music app",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^7.12.1",
+    "sequelize": "^5.19.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Garrison",
+  "license": "ISC"
+}
